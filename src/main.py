@@ -1,6 +1,11 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument('--data-dir', type=str, required=True, default='../data')
+args = parser.parse_args()
+
 #################################################
 # This is the dataset configuration:
 num_feature = 784
@@ -17,14 +22,14 @@ import numpy as np
 
 # Use standard FashionMNIST dataset
 train_set = torchvision.datasets.FashionMNIST(
-    root = './data/FashionMNIST',
+    root = args.data_dir,
     train = True,
     download = True	# please turn it off once downloaded
 )
 
 # Use standard FashionMNIST dataset
 test_set = torchvision.datasets.FashionMNIST(
-    root = './data/FashionMNIST',
+    root = args.data_dir,
     train = False,
     download = True	# please turn it off once downloaded
 )
@@ -48,7 +53,7 @@ x_train = np.array(x_train,dtype=int)
 y_train = np.array(y_train,dtype=int)
 x_test = np.array(x_test,dtype=int)
 y_test = np.array(y_test,dtype=int)
-print('Dataset MNIST loaded.')
+print('Dataset FashionMNIST loaded.')
 
 ###############Binary HDC Encoding##############################
 ###################(START)#####################################
