@@ -21,7 +21,6 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 | /src/main.py | A simple and quick example on Fashion-MNIST on LeHDC                     |
 
 ## :star2:Papers following our training strategy!
-
 - [TinyML'22] Shijin Duan, Xiaolin Xu, and Shaolei Ren. [**A Brain**-**Inspired Low**-**Dimensional Computing Classifier for Inference on Tiny Devices**](https://arxiv.org/abs/2203.04894); (A paper tightly following LeHDC that projects the entire HDC flow to partial BNN. :next_track_button:*It can greatly outperform SOTA HDC methods, reducing the vector dimension by 100 times (~100), but achieve comparable accuracy as LeHDC!* It's also the foundation of our ongoing work.)
 
 - [DAC'22] Shijin Duan, Shaolei Ren, and Xiaolin Xu. [HDLock: exploiting privileged encoding to protect hyperdimensional computing models against IP stealing](https://dl.acm.org/doi/abs/10.1145/3489517.3530515);
@@ -31,6 +30,7 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 - [INFOCOM AidTSP'23] Fangfang Yang, Shijin Duan, Xiaolin Xu, and Shaolei Ren. Achieving Certified Robustness for Brain-Inspired Low-Dimensional Computing Classifiers *(upcoming...)*
 
 ## Citation
+You are very welcome to go through our work and properly cite them if you are interested. :raised_hands:
 
 ```
 @inproceedings{duan2022lehdc,
