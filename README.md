@@ -33,11 +33,19 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 You are very welcome to go through our work and properly cite them if you are interested. :raised_hands:
 
 ```
-@inproceedings{duan2022lehdc,
+@inproceedings{LeHDC,
  title={LeHDC: Learning-based hyperdimensional computing classifier},
  author={Duan, Shijin and Liu, Yejia and Ren, Shaolei and Xu, Xiaolin},
  booktitle={Proceedings of the 59th ACM/IEEE Design Automation Conference},
  pages={1111--1116},
  year={2022}
+}
+```
+```
+@inproceedings{LDC,
+  title={A Brain-Inspired Low-Dimensional Computing Classifier for Inference on Tiny Devices},
+  author={Duan, Shijin and Xu, Xiaolin and Ren, Shaolei},
+  booktitle={tinyML Research Symposium 2022},
+  year={2022}
 }
 ```
