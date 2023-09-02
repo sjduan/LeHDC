@@ -27,7 +27,9 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 
 - [TinyML'23] Yejia Liu, Shijin Duan, Xiaolin Xu, and Shaolei Ren. [MetaLDC: Meta Learning of Low-Dimensional Computing Classifiers for Fast On-Device Adaption](https://arxiv.org/abs/2302.12347);
 
-- [INFOCOM AidTSP'23] Fangfang Yang, Shijin Duan, Xiaolin Xu, and Shaolei Ren. Achieving Certified Robustness for Brain-Inspired Low-Dimensional Computing Classifiers *(upcoming...)*
+- [INFOCOM AidTSP'23] Fangfang Yang, Shijin Duan, Xiaolin Xu, and Shaolei Ren. [Achieving Certified Robustness for Brain-Inspired Low-Dimensional Computing Classifiers](https://ieeexplore.ieee.org/abstract/document/10225774);
+
+- ...
 
 ## Citation
 You are very welcome to go through our work and properly cite them if you are interested. :raised_hands:
