@@ -29,6 +29,8 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 
 - [INFOCOM AidTSP'23] Fangfang Yang, Shijin Duan, Xiaolin Xu, and Shaolei Ren. [Achieving Certified Robustness for Brain-Inspired Low-Dimensional Computing Classifiers](https://ieeexplore.ieee.org/abstract/document/10225774);
 
+- [ASPLOS'24] Nuntipat Narkthong, Shijin Duan, Shaolei Ren, and Xiaolin Xu. MicroVSA: An Ultra-Lightweight Vector Symbolic Architecture-based Classifier Library for Tiny Microcontrollers (to appear);
+
 - ...
 
 ## Citation
