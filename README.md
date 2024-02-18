@@ -31,6 +31,8 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 
 - [ASPLOS'24] Nuntipat Narkthong, Shijin Duan, Shaolei Ren, and Xiaolin Xu. MicroVSA: An Ultra-Lightweight Vector Symbolic Architecture-based Classifier Library for Tiny Microcontrollers (to appear);
 
+- [TinyML'24] Yejia Liu, Shijin Duan, Xiaolin Xu, and Shaolei Ren. Scheduled Knowledge Acquisition on Lightweight Vector Symbolic Architectures for Brain-Computer Interfaces (to appear);
+  
 - ...
 
 ## Citation
