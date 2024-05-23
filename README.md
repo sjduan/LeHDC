@@ -29,9 +29,9 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 
 - [INFOCOM AidTSP'23] Fangfang Yang, Shijin Duan, Xiaolin Xu, and Shaolei Ren. [Achieving Certified Robustness for Brain-Inspired Low-Dimensional Computing Classifiers](https://ieeexplore.ieee.org/abstract/document/10225774);
 
-- [ASPLOS'24] Nuntipat Narkthong, Shijin Duan, Shaolei Ren, and Xiaolin Xu. MicroVSA: An Ultra-Lightweight Vector Symbolic Architecture-based Classifier Library for Tiny Microcontrollers (to appear); [[code]](https://github.com/nuntipat/MicroVSA)
+- [ASPLOS'24] Nuntipat Narkthong, Shijin Duan, Shaolei Ren, and Xiaolin Xu. MicroVSA: An Ultra-Lightweight Vector Symbolic Architecture-based Classifier Library for Tiny Microcontrollers; [[code]](https://github.com/nuntipat/MicroVSA)
 
-- [TinyML'24] Yejia Liu, Shijin Duan, Xiaolin Xu, and Shaolei Ren. Scheduled Knowledge Acquisition on Lightweight Vector Symbolic Architectures for Brain-Computer Interfaces (to appear);
+- [TinyML'24] Yejia Liu, Shijin Duan, Xiaolin Xu, and Shaolei Ren. [Scheduled Knowledge Acquisition on Lightweight Vector Symbolic Architectures for Brain-Computer Interfaces](https://arxiv.org/pdf/2403.13844);
   
 - ...
 
