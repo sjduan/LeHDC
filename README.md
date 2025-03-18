@@ -33,7 +33,7 @@ LeHDC can outperform current HDC-related models and has good scalability along v
 
 - [TinyML'24] Yejia Liu, Shijin Duan, Xiaolin Xu, and Shaolei Ren. [Scheduled Knowledge Acquisition on Lightweight Vector Symbolic Architectures for Brain-Computer Interfaces](https://arxiv.org/pdf/2403.13844);
 
-- [CPAL'25] Shijin Duan, Yejia Liu, Gaowen Liu, Ramana Rao Kompella, Shaolei Ren, Xiaolin Xu. Towards Vector Optimization on Low-Dimensional Vector Symbolic Architecture;
+- [CPAL'25] Shijin Duan, Yejia Liu, Gaowen Liu, Ramana Rao Kompella, Shaolei Ren, Xiaolin Xu. [Towards Vector Optimization on Low-Dimensional Vector Symbolic Architecture](https://arxiv.org/abs/2502.14075);
 
 - [DAC'25] Shijin Duan, Nuntipat Narkthong, Yukui Luo, Shaolei Ren and Xiaolin Xu. Holistic Design towards Resource-Stringent Binary Vector Symbolic Architecture;
   
